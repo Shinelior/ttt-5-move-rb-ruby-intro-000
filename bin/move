@@ -15,7 +15,7 @@ i = input_to_index(gets.strip)
 puts "x or an o"
 
 
-board=move(board,i,)
+board=move(board,i)
 
 
 
